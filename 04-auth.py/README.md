@@ -23,6 +23,7 @@
   这里使用Pythonic的方式定义函数，很妙！
   
   ![image info](./06.png)
+  
   Pythonic的变量写法。
   
 ## 3. 总结
