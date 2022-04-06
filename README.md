@@ -18,5 +18,5 @@
 
 如果你觉得本篇code review还不错，麻烦给项目加个星。谢谢了各位！
 
-OK。在阅读之前，先阅读一下Wiki，了解一下Requests的作者，以及为什么要看这篇代码吧：[Requests](https://zh.wikipedia.org/zh-tw/Requests)
+OK。在阅读之前，先浏览一下Wiki，了解一下Requests的作者，以及为什么要看这篇代码吧：[Requests](https://zh.wikipedia.org/zh-tw/Requests)
 
