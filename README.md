@@ -8,8 +8,9 @@
 
 ## 本作适合：
 1. Python初学者。
-2. 想要提升Python代码规范的人。
-3. 想要灵活运用Python特性，使代码Pythonic的人。
+2. 即将接触Python项目，或重构业务代码的人。
+3. 想要提升Python代码规范的人。
+4. 想要灵活运用Python特性，使代码Pythonic的人。
 
 ## 本作不适合：
 1. 深挖Requests网络原理的人。
