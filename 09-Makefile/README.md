@@ -2,6 +2,10 @@
 
 已经有兄弟解释的非常清楚了。如下摘自ictar的repo。Disclaimer: credit to ictar.
 
+可惜的是，我并没有用requests自带的makefile跑起来他的测试。如果有成功的，可以给我评论，谢谢！
+
+------------------------
+
 原文：[Makefiles in python projects —— Do you need such thing as makefile in python projects?](http://krzysztofzuraw.com/blog/2016/makefiles-in-python-projects.html)
 
 ---
